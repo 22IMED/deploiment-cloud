@@ -1,0 +1,8 @@
+wordpress_db_name: wordpress
+wordpress_db_user: wp_user
+wordpress_db_password: wp_password_change_me
+wordpress_db_root_password: root_password_change_me
+wordpress_site_title: "Mon WordPress IaC"
+wordpress_site_admin_user: admin
+wordpress_site_admin_password: change_me_now
+wordpress_site_admin_email: admin@example.com

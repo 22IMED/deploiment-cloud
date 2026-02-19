@@ -1,0 +1,5 @@
+github_owner        = "votre-user-ou-org"
+github_token        = "ghp_xxx"
+repository_name     = "deploiment-cloud"
+collaborator_username = "theophilegarin"
+collaborator_permission = "push"
