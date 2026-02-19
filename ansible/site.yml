@@ -1,0 +1,5 @@
+- name: Installer WordPress
+  hosts: wordpress
+  become: true
+  roles:
+    - wordpress
